@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.SyslogLogger.iml
+# Datasource local storage ignored files
+/../../../../../../:\Programming\SyslogLogger\.idea\.idea.SyslogLogger\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
